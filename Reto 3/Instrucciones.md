@@ -34,4 +34,4 @@ sudo docker exec -it hive-server bash
 ```
 hive
 ```
-### A partir de este momento se puedes realizar consultas desde la linea de comando!!
+### A partir de este momento se puedes realizar consultas desde la linea de comando!! :star_struck: :star_struck:
