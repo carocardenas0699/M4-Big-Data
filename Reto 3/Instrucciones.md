@@ -1,4 +1,4 @@
-# Reto 3 - Consultas Hive desde Docker
+# Reto 3 - Consultas Hive desde Docker :bee:
 
 #### 1. Clonar el repositorio en el tienes el archivo de docker-compose
 
