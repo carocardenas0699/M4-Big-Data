@@ -24,4 +24,4 @@ sudo docker-compose up -d
 sudo docker ps
 ```
 
-### A partir de este momento puedes usar tus contenedore Mongo
+### A partir de este momento puedes usar tus contenedore Mongo!! :star_struck::star_struck:
