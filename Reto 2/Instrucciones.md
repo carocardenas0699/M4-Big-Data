@@ -1,4 +1,4 @@
-# Reto 2 - Crear contenedores de Mongo
+# Reto 2 - Crear contenedores de Mongo :leaves:
 
 #### 1. Clonar el repositorio en el tienes el archivo de docker-compose
 
