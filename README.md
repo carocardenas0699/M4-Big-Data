@@ -11,5 +11,5 @@ Levantar un contenedor de MongoDB
 ### Reto 3 :bee:
 Correr consultas de Hive desde la linea de comando en Docker
 
-### Reto 4
+### Reto 4 :snake:
 Script para convertir un archivo parquet a json usando Python
